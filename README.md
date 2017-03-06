@@ -1,6 +1,8 @@
 # speaking
 Upcoming and past speaking engagements of [@KrauseFx](https://twitter.com/KrauseFx)
 
+Feel free to submit PRs to add new events to the list
+
 ### 2017
 
 Location | Date | Conference
