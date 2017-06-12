@@ -16,13 +16,19 @@ Feel free to submit PRs to add new events to the list, or drop me an email at sp
 
 Location | Date | Conference
 ---------|------|------------
-Lausanne, Switzerland | 24th April | [App Builders](https://www.appbuilders.ch/)
-Budapest, Hungary | 25th - 28th April | [Craft Conf](https://craft-conf.com/)
-Vienna, Austria | 11th - 12th May | [WeAreDevelopers](http://www.wearedevelopers.org/)
+To be announced | September | To be announced
+Paris, France | 22nd - 23rd September | [FrenchKit](http://frenchkit.fr/)
+To be announced | October | To be announced
+San Francisco, USA | 30th - 31st October | [SwiftSummit](https://www.swiftsummit.com/)
 
 #### Past
+
+##### 2017
 
 Location | Date | Conference
 ---------|------|------------
 Melbourne, Australia | 23rd - 24th February | [PlaygroundsCon](http://www.playgroundscon.com/)
 Tokyo, Japan | 3rd March | [try! Swift](https://www.tryswift.co/tokyo/en)
+Lausanne, Switzerland | 24th April | [App Builders](https://www.appbuilders.ch/)
+Budapest, Hungary | 25th - 28th April | [Craft Conf](https://craft-conf.com/)
+Vienna, Austria | 11th - 12th May | [WeAreDevelopers](http://www.wearedevelopers.org/)
