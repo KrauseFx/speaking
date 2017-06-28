@@ -16,7 +16,7 @@ Feel free to submit PRs to add new events to the list, or drop me an email at sp
 
 Location | Date | Conference
 ---------|------|------------
-To be announced | September | To be announced
+Logroño, Spain | 13th - 15th September | [NSSpain](https://2017.nsspain.com/)
 Paris, France | 22nd - 23rd September | [FrenchKit](http://frenchkit.fr/)
 To be announced | October | To be announced
 San Francisco, USA | 30th - 31st October | [SwiftSummit](https://www.swiftsummit.com/)
