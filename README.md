@@ -18,8 +18,8 @@ Location | Date | Conference
 ---------|------|------------
 Logroño, Spain | 13th - 15th September | [NSSpain](https://2017.nsspain.com/)
 Paris, France | 22nd - 23rd September | [FrenchKit](http://frenchkit.fr/)
-To be announced | October | To be announced
-San Francisco, USA | 30th - 31st October | [SwiftSummit](https://www.swiftsummit.com/)
+Verona, Italy | 11th - 13th October | [PragmaConf](https://pragmaconference.com/)
+Amsterdam, Netherlands | 31st October | [Firebase Dev Summit](https://firebase.google.com/dev-summit-17/?utm_source=Social&utm_medium=KrauseFx&utm_campaign=KrauseFx)
 
 #### Past
 
