@@ -10,20 +10,15 @@ Feel free to submit PRs to add new events to the list, or drop me an email at sp
 
 > Felix is the creator of fastlane, an open source toolset for automating all your iOS and Android development tasks. He joined Twitter in 2015, and recently started working at Google, where he now works full-time on open source tooling for mobile app developers. Before that Felix worked at various startups in Europe and in the U.S. where he collected over 6 years of experience in the iOS ecosystem.
 
-### 2017
-
-#### Upcoming
+### 2018
 
 Location | Date | Conference
 ---------|------|------------
-TBA | TBA | TBA
+New York, USA | 22nd February | [Moving Forward](https://www.moving-forward.com/nyc/)
 TBA | TBA | TBA
 TBA | TBA | TBA
 
-
-#### Past
-
-##### 2017
+### 2017
 
 Location | Date | Conference
 ---------|------|------------
