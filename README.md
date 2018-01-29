@@ -22,8 +22,8 @@ Feel free to submit PRs to add new events to the list, or drop me an email at sp
 Location | Date | Conference
 ---------|------|------------
 New York, USA | 22nd February | [Moving Forward](https://www.moving-forward.com/nyc/)
-TBA | TBA | TBA
-TBA | TBA | TBA
+TBA | 20th, 21st April | TBA
+Vienna, Austria | 16th - 18th May | [WeAreDevelopers Congres](https://www.wearedevelopers.com/congress/)
 
 ### 2017
 
