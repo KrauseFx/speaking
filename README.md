@@ -23,7 +23,7 @@ Location | Date | Conference
 ---------|------|------------
 New York, USA | 22nd February | [Moving Forward](https://www.moving-forward.com/nyc/)
 Saint Petersburg, Russia | 20th, 21st April | [MobiusConf](https://mobiusconf.com/en/)
-Vienna, Austria | 16th - 18th May | [WeAreDevelopers Congres](https://www.wearedevelopers.com/congress/)
+Vienna, Austria | 16th - 18th May | [WeAreDevelopers Congress](https://www.wearedevelopers.com/congress/)
 TBA | October | TBA
 
 ### 2017
