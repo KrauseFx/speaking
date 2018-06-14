@@ -12,6 +12,7 @@ Feel free to submit PRs to add new events to the list, or drop me an email at sp
 
 ## Video recordings of previous talks
 
+- [Trusting iOS SDKs, 2018](https://www.youtube.com/watch?v=JhGT5soJ0HA)
 - [Scaling Open Source Communities, 2017](https://www.youtube.com/watch?v=DiVQXn56MiM)
 - [Getting started with open source, 2017](https://vimeo.com/235309173)
 - [Building and shipping your first fastlane plugin, 2017](https://youtu.be/scfOk5SgrKU?t=17m42s)
