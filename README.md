@@ -26,7 +26,7 @@ New York, USA | 22nd February | [Moving Forward](https://www.moving-forward.com/
 Saint Petersburg, Russia | 20th, 21st April | [MobiusConf](https://mobiusconf.com/en/)
 Vienna, Austria | 16th - 18th May | [WeAreDevelopers Congress](https://www.wearedevelopers.com/congress/)
 New York, USA | 5th September | [try! Swift NYC](https://www.tryswift.co/events/2018/nyc/)
-TBA | October | TBA
+Belgrade, Serbia | 19th October | [heapcon](https://heapcon.io/)
 Oslo, Norway | 1st, 2nd November | [Mobile Era](https://mobileera.rocks/)
 TBA | November | TBA
 
