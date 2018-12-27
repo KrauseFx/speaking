@@ -3,8 +3,9 @@ Upcoming and past speaking engagements of [@KrauseFx](https://twitter.com/Krause
 
 Feel free to submit PRs to add new events to the list, or drop me an email at speaking@krausefx.com.
 
-<img src="assets/FelixKrauseProfileSquare.jpg" width="200"><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Full Size](assets/FelixKrauseProfileSquare.jpg)**
+<a href="https://github.com/KrauseFx/speaking/raw/master/assets/FelixKrauseProfileSquare.jpg">
+<img src="assets/FelixKrauseProfileSquare.jpg" width="200"></a><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Full Size](https://github.com/KrauseFx/speaking/raw/master/assets/FelixKrauseProfileSquare.jpg)**
 
 ## Bio
 
