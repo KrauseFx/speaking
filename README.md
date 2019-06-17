@@ -12,7 +12,7 @@ Feel free to submit PRs to add new events to the list, or drop me an email at sp
 
 ## Bio
 
-> Felix is the creator of fastlane, an open source toolset for automating all your iOS and Android development tasks. He joined Twitter in 2015, and recently started working at Google, where he now works full-time on open source tooling for mobile app developers. Before that Felix worked at various startups in Europe and in the U.S. where he collected over 6 years of experience in the iOS ecosystem.
+> Felix is the creator of fastlane, an open source toolset for automating all your iOS and Android development tasks. He joined Twitter and Google where he grew fastlane over the last 4 years. Before that Felix worked at various startups in Europe and in the U.S. where he collected over 7 years of experience in the iOS ecosystem.
 
 #### [More about me](https://krausefx.com/about)
 
@@ -24,6 +24,12 @@ Feel free to submit PRs to add new events to the list, or drop me an email at sp
 - [Getting started with open source, 2017](https://vimeo.com/235309173)
 - [Building and shipping your first fastlane plugin, 2017](https://youtu.be/scfOk5SgrKU?t=17m42s)
 - [Automate your releases using fastlane, 2016](https://www.youtube.com/watch?v=wOtANfkh2bI)
+
+### 2019
+
+Location | Date | Conference
+---------|------|------------
+Buenos Aires, Argentina | 28/29 November | [Swiftable](https://swiftable.io/)
 
 ### 2018
 
