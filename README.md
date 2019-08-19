@@ -41,7 +41,7 @@ Vienna, Austria | 16th - 18th May | [WeAreDevelopers Congress](https://www.weare
 New York, USA | 5th September | [try! Swift NYC](https://www.tryswift.co/events/2018/nyc/)
 Belgrade, Serbia | 19th October | [heapcon](https://heapcon.io/)
 Oslo, Norway | 1st, 2nd November | [Mobile Era](https://mobileera.rocks/)
-Tel Aviv | 14th November | [Facebook Mobile @Scale](https://atscaleconference.com/events/mobilescale-tel-aviv/)
+Tel Aviv, Israel | 14th November | [Facebook Mobile @Scale](https://atscaleconference.com/events/mobilescale-tel-aviv/)
 
 ### 2017
 
