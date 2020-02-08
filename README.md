@@ -18,7 +18,7 @@ Feel free to submit PRs to add new events to the list, or drop me an email at sp
 
 ## Video recordings of previous talks
 
-- [Automating iOS development processes, 2018](https://www.facebook.com/atscaleevents/videos/2164710343846256/)
+- [Automating iOS development processes, 2018](https://www.facebook.com/atscaleevents/videos/2164710343846256/), [Optimizing iOS app development processes, 2019](https://www.youtube.com/watch?v=1BiEryyobjk&list=PLleLsCcywRxKT3VgBPtzxtRjq-NXK0FZw&index=6&t=0s)
 - [Trusting iOS SDKs, 2018](https://www.youtube.com/watch?v=JhGT5soJ0HA)
 - [Scaling Open Source Communities, 2017](https://www.youtube.com/watch?v=DiVQXn56MiM)
 - [Getting started with open source, 2017](https://vimeo.com/235309173)
