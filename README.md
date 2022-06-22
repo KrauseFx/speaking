@@ -1,8 +1,6 @@
 # speaking
 Upcoming and past speaking engagements of [@KrauseFx](https://twitter.com/KrauseFx)
 
-Feel free to submit PRs to add new events to the list, or drop me an email at speaking@krausefx.com.
-
 <a href="https://github.com/KrauseFx/speaking/raw/master/assets/FelixKrauseProfileSquare.jpg">
 <img src="assets/FelixKrauseProfileSquare.jpg" width="200"></a>
 
