@@ -10,7 +10,7 @@ Upcoming and past speaking engagements of [@KrauseFx](https://twitter.com/Krause
 
 ## Bio
 
-> Felix is the creator of fastlane, an open source toolset for automating all your iOS and Android development tasks. He joined Twitter and Google where he grew fastlane over the last 4 years. Before that Felix worked at various startups in Europe and in the U.S. where he collected over 7 years of experience in the iOS ecosystem.
+> Felix is the creator of fastlane, the #1 open source toolset for automating iOS and Android development and deployment tasks. He's worked at Google, Twitter and various other tech startups. Currently Felix works as advisor while also publishing his own projects, most recently with a focus on privacy & security of the iOS platform.
 
 #### [More about me](https://krausefx.com/about)
 
