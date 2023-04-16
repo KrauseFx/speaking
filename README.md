@@ -25,6 +25,12 @@ Upcoming and past speaking engagements of [@KrauseFx](https://twitter.com/Krause
 - [Building and shipping your first fastlane plugin, 2017](https://youtu.be/scfOk5SgrKU?t=17m42s)
 - [Automate your releases using fastlane, 2016](https://www.youtube.com/watch?v=wOtANfkh2bI)
 
+### 2022
+
+Location | Date | Conference
+---------|------|------------
+Copenhagen, Denmark | 3rd October | [GOTO Copenhagen](https://gotocph.com/2022)
+
 ### 2019
 
 Location | Date | Conference
