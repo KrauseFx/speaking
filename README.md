@@ -16,6 +16,7 @@ Upcoming and past speaking engagements of [@KrauseFx](https://twitter.com/Krause
 
 ## Video recordings of previous talks
 
+- [How I Put My Whole Life into a Single Database, 2022](https://www.youtube.com/watch?v=q_lgY7S9nsM)
 - [Investigating Privacy Issues on Mobile Platforms, 2022](https://www.youtube.com/watch?v=W8PmMDePgf8)
 - [Optimizing iOS app development processes, 2019](https://www.youtube.com/watch?v=1BiEryyobjk&list=PLleLsCcywRxKT3VgBPtzxtRjq-NXK0FZw&index=6&t=0s)
 - [Automating iOS development processes, 2018](https://www.facebook.com/atscaleevents/videos/2164710343846256/)
@@ -29,6 +30,7 @@ Upcoming and past speaking engagements of [@KrauseFx](https://twitter.com/Krause
 
 Location | Date | Conference
 ---------|------|------------
+Madrid, Spain | 2nd June | [TEDx Madrid]([https://gotocph.com/2022](https://www.youtube.com/watch?v=q_lgY7S9nsM))
 Copenhagen, Denmark | 3rd October | [GOTO Copenhagen](https://gotocph.com/2022)
 
 ### 2019
